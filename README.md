@@ -1,6 +1,6 @@
 # Zork Game
 
-This is a text-based adventure game inspired by the classic game Zork. Explore various locations, collect items, solve puzzles, and try to survive in a mysterious world full of challenges.
+This is a text-based adventure game inspired by the classic game Zork. Explore various locations, collect items, solve puzzles, and try to survive.
 
 ## Contributors
 
@@ -13,6 +13,7 @@ This is a text-based adventure game inspired by the classic game Zork. Explore v
 3. Run the executable file generated.
 4. Follow the instructions and commands provided in the game to navigate, interact with objects, and progress through the adventure.
 5. Try to reach the goal of the game, solving puzzles and overcoming obstacles along the way.
+6. To improve the experience or if you have problems finishing the game I recommend that you open the ZorkMap, it is uploaded in this same folder.
 
 ## Game Features
 
@@ -42,5 +43,19 @@ The source code and development history of the game can be found in the [GitHub 
    5. Finally, go to the Dungeon and unlock the door using the Key (if the door is locked, you will be prompted to use the Key).
    6. In the Minotaur's if you don't have the Sword, it's game over. However, if you have the Sword, you can confront the Minotaur, slay the beast, and emerge victorious.
    7. Congratulations! You have completed the game and escaped the dungeon.
-      
+
+## Developer's Notes
+
+If you have any suggestions or encounter any issues while playing the game, please don't hesitate to reach out. Your feedback is greatly appreciated.
+
 Good luck and enjoy the game!
+
+### Challenges Faced
+
+During the development of this game, I encountered several challenges, with the most significant one being the application of logic, as it is one of my weaker areas. However, I approached it with determination and perseverance, leveraging my experience with C# and spending weeks watching videos and practicing C++ before starting this test. 
+
+### Experience and Reflection
+
+Despite the challenges, I had an incredibly positive experience working on this project. I thoroughly enjoyed creating the game's map, logic, environment, and immersive elements. It was an opportunity for me to explore new concepts, expand my programming skills, and embrace the adventure of developing a text-based game in a language I was not familiar with. 
+
+Overall, I am proud of the outcome and grateful for the opportunity to tackle this project.
