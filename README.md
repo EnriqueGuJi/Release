@@ -11,7 +11,7 @@ This is a text-based adventure game inspired by the classic game Zork. Explore v
 1. Clone the repository or download the source code as a ZIP file.
 2. Run exe.
 3. Follow the instructions and commands provided in the game to navigate, interact with objects, and progress through the adventure.
-4. Try to reach the goal of the game, solving puzzles and overcoming obstacles along the way.
+4. Try to reach the goal of the game, solving puzzles and overcoming obstacles.
 5. To improve the experience or if you have problems finishing the game I recommend that you open the ZorkMap, it is uploaded in this same folder.
 
 ## Game Features
